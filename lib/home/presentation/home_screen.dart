@@ -4,8 +4,6 @@ import 'package:dragon_ball_catallog_flutter/utils/common/utils.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import '../../generated/l10n.dart';
-
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
