@@ -1,6 +1,6 @@
-# dragon_ball_catallog_flutter
+# dragon_ball_catalog_flutter
 
-Catalogo de los personaljes de Dragon Ball hecho en Flutter
+Catalogo de los personajes de Dragon Ball hecho en Flutter
 
 ## Getting Started
 
