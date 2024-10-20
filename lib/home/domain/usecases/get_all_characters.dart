@@ -10,7 +10,7 @@ class GetAllCharacters {
   Future<GetAllCharactersResult> call() async {
     final response = await repository.getAllCharacters();
     if (response.success) {
-      return GetAllCharactersResult.success(response.data ?? []);
+      return GetAllCharactersResult.success(response.data);
     } else {
       return GetAllCharactersResult.failure(response.message);
     }

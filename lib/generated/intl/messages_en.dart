@@ -26,6 +26,9 @@ class MessageLookup extends MessageLookupByLibrary {
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
         "appName":
             MessageLookupByLibrary.simpleMessage("Dragon Ball Characters"),
-        "ki": m0
+        "ki": m0,
+        "lblCharacterNotFound":
+            MessageLookupByLibrary.simpleMessage("Personaje no encontrado"),
+        "loading": MessageLookupByLibrary.simpleMessage("Cargando...")
       };
 }

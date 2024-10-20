@@ -60,6 +60,16 @@ class S {
     );
   }
 
+  /// `Cargando...`
+  String get loading {
+    return Intl.message(
+      'Cargando...',
+      name: 'loading',
+      desc: '',
+      args: [],
+    );
+  }
+
   /// `Ki: {ki}`
   String ki(Object ki) {
     return Intl.message(
@@ -67,6 +77,16 @@ class S {
       name: 'ki',
       desc: '',
       args: [ki],
+    );
+  }
+
+  /// `Personaje no encontrado`
+  String get lblCharacterNotFound {
+    return Intl.message(
+      'Personaje no encontrado',
+      name: 'lblCharacterNotFound',
+      desc: '',
+      args: [],
     );
   }
 }

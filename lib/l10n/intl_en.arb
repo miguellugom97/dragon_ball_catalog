@@ -1,4 +1,6 @@
 {
   "appName": "Dragon Ball Characters",
-  "ki": "Ki: {ki}"
+  "loading": "Cargando...",
+  "ki": "Ki: {ki}",
+  "lblCharacterNotFound": "Personaje no encontrado"
 }
