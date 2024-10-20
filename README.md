@@ -6,11 +6,5 @@ Catalogo de los personajes de Dragon Ball hecho en Flutter
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![simulator_screenshot_B7A1D854-2299-4CEE-B6A6-64A2E1A40114](https://github.com/user-attachments/assets/fab5bab7-305f-43d5-b825-d88b7cc9c953)
+![simulator_screenshot_63B6C5C2-063C-4DB2-9F64-D373536C6FFD](https://github.com/user-attachments/assets/eda13e7a-a661-4a60-8ab0-ea4978387345)
